@@ -1,6 +1,6 @@
 # Steps to Run this Project
-npm install or npm i -D
-npm run dev
+1. npm install or npm i -D
+2. npm run dev
 
 # Process
 1. The npm run dev command will convert the CSV file to JSON and also start the react app every time you run this command 
