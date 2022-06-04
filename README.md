@@ -1,3 +1,14 @@
+# Steps to Run this Project
+npm install or npm i -D
+npm run dev
+
+# Process
+1. The npm run dev command will convert the CSV file to JSON and also start the react app every time you run this command 
+2. We can search the data based on Pincode, Items and Date or Any one of them by clicking the Filter Search Button and all the filters are removed on Clicking on Remove Filters button.
+3. We can sort the data based on Pincode
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
