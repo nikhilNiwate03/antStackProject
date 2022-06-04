@@ -1,0 +1,22 @@
+.header_bar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.date{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pincode{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-main{
+    padding: 5px;
+    border-radius: 5px 5px 0px 0px;
+}
